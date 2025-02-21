@@ -1,0 +1,23 @@
+.field__body {
+  width: 650px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 0 auto;
+}
+
+.field__cell {
+  width: 150px;
+  height: 150px;
+  margin: 5px 5px;
+  background: #20c997;
+  border-radius: 50%;
+}
+
+.field__goblin {
+  background-image: url(../assets/goblin.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #c3fae8;
+}
