@@ -48,7 +48,7 @@ module.exports = {
     new HtmlWebpackPlugin({
       title: "Random Image Appearing",
       filename: "index.html",
-      template: "src/template.html",
+      template: "src/index.html",
     }),
   ],
 };
